@@ -15,7 +15,7 @@ global.APIKeys = {
 global.autoread = true // auto read pesan / message
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.available = true //status online (online)
 
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
@@ -25,8 +25,8 @@ global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6289529337047" // nomor wa kalian
-global.ownernomerr = "6289529337047" //nmr wa kalian
+global.ownernomer = "6285754058907" // nomor wa kalian
+global.ownernomerr = "+6285754058907" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
